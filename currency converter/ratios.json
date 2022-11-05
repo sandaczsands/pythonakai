@@ -1,0 +1,50 @@
+[
+   {
+      "base_currency": "PLN",
+      "target_currency": "EUR",
+      "date_fetched": "2019-09-27",
+      "ratio": 0.2279721874
+   },
+   {
+      "base_currency": "PLN",
+      "target_currency": "USD",
+      "date_fetched": "2019-09-27",
+      "ratio": 0.2492875869
+   },
+   {
+      "base_currency": "USD",
+      "target_currency": "EUR",
+      "date_fetched": "2022-10-23",
+      "ratio": 1.014511
+   },
+   {
+      "base_currency": "USD",
+      "target_currency": "PLN",
+      "date_fetched": "2022-10-23",
+      "ratio": 4.842143
+   },
+   {
+      "base_currency": "EUR",
+      "target_currency": "PLN",
+      "date_fetched": "2022-10-29",
+      "ratio": 4.716559
+   },
+   {
+      "base_currency": "CUP",
+      "target_currency": "GEL",
+      "data_fetched": "2022-10-29",
+      "ratio": 0.107383
+   },
+   {
+      "base_currency": "CUP",
+      "target_currency": "USD",
+      "data_fetched": "2022-10-28",
+      "ratio": 0.038879
+   },
+   {
+      "base_currency": "CUP",
+      "target_currency": "BOB",
+      "data_fetched": "2022-10-29",
+      "ratio": 0.268559
+   }
+]
